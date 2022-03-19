@@ -1,1 +1,1 @@
-Tested diverese functionalities on www.cel.ro in Java with selenium Webdriver
+Tested diverse functionalities on www.cel.ro in Java with selenium Webdriver
